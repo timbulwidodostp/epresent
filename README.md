@@ -1,0 +1,2 @@
+# epresent
+Presentation of non-linear relationships in regression models with log or logit-link Use epresent With STATA 19
